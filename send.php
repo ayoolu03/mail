@@ -27,7 +27,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "developer@lifebank.ng";
 //Password to use for SMTP authentication
-$mail->Password = "part5bumf3";
+$mail->Password = "*******";
 //Set who the message is to be sent from
 $mail->setFrom('developer@lifebank.ng', 'dev Life');
 //Set an alternative reply-to address
